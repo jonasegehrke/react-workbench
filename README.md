@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Workbench
+This project is a collection of my smaller projects created using react.js. \
+NOTE: The collection is inteded to be a workbench that i can use to learn react.js
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
