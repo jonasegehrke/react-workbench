@@ -1,0 +1,15 @@
+body{
+    background-color: #5865F2;
+}
+
+h1{
+    margin: 25px;
+    text-align: center;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

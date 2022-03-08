@@ -1,0 +1,16 @@
+input{
+    text-align: center;
+}
+
+.btn, .new-item, p, h2{
+    margin: 5px !important;
+}
+
+.new-item{
+    width: 50% !important;
+}
+
+.shopping-list{
+    display: flex;
+    flex-direction: column;
+}
